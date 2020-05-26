@@ -87,8 +87,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Lucio_Bergamasco\source\repos\tela1\Projeto-Final-Crossover\tela1\SDL2-2.0.12\include;C:\Users\Lucio_Bergamasco\source\repos\tela1\Projeto-Final-Crossover\tela1;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\Lucio_Bergamasco\source\repos\tela1\Projeto-Final-Crossover\tela1\SDL2-2.0.12\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Lucio_Bergamasco\source\repos\Projeto-Crossover-CPP\tela1\SDL2-2.0.12\include;C:\Users\Lucio_Bergamasco\source\repos\Projeto-Crossover-CPP\tela1;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Lucio_Bergamasco\source\repos\Projeto-Crossover-CPP\tela1\SDL2-2.0.12\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
